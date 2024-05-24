@@ -1,0 +1,431 @@
+{
+  "name": "products_container",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "52:336",
+    "version": "5802959526",
+    "component-id": "57b7b592e10c950676b917b1f537f11f4aea9688"
+  },
+  "default": "ProductsContainer",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 32"
+      },
+      {
+        "type": "group",
+        "id": "In4"
+      },
+      {
+        "type": "group",
+        "id": "Group 2"
+      },
+      {
+        "type": "text",
+        "id": "Nhẫn hoàng gia"
+      },
+      {
+        "type": "text",
+        "id": "Colio"
+      },
+      {
+        "type": "text",
+        "id": "ChiTiet"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 33"
+      },
+      {
+        "type": "group",
+        "id": "bag-plus-fill 1"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2"
+      },
+      {
+        "type": "vector",
+        "id": "Line 2"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "text",
+        "id": "$200"
+      },
+      {
+        "type": "text",
+        "id": "$199"
+      }
+    ],
+    "modes": {
+      "ProductsContainer": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 10.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "stroke-width": 0.699999988079071,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "children": [
+              "Rectangle 32",
+              "In4",
+              "Group 2"
+            ],
+            "item-spacing": 1.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Rectangle 32",
+            "border-radius": 10.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 111.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 100.0
+              }
+            },
+            "stroke-width": 0.6600000262260437,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "image-content": "rectangle_32.png",
+            "scale": "fill"
+          },
+          {
+            "id": "In4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Nhẫn hoàng gia",
+              "Colio",
+              "ChiTiet"
+            ],
+            "item-spacing": -1.0,
+            "clip-content": false
+          },
+          {
+            "id": "Group 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 110.99267578125
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 33",
+              "bag-plus-fill 1",
+              "Frame 2",
+              "Line 2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Nhẫn hoàng gia",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 109.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "text-content": "Nhẫn hoàng gia",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 12.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "iCiel Rift"
+          },
+          {
+            "id": "Colio",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 105.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "text-content": "Colio ",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 11.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "Italiana"
+          },
+          {
+            "id": "ChiTiet",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 105.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 200.0,
+            "text-content": "Dưới đây là một vài thông tin mô tả của sản phẩm, hoặc không mô tả thì thôi. Tôi sẽ viết thêm vài dòng để trông nó dài và dễ tưởng tượng hơn khi nó dài trông nó sẽ như thế nào",
+            "italic": true,
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 8.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "Alumni Sans"
+          },
+          {
+            "id": "Rectangle 33",
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 83.99267578125
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 27.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              }
+            },
+            "vector-content": "rectangle_33.svg"
+          },
+          {
+            "id": "bag-plus-fill 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 91.996337890625
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 12.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 12.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "Frame 2",
+            "padding": {
+              "left": 6.0,
+              "top": 1.0,
+              "right": 6.0,
+              "bottom": 1.0
+            },
+            "border-radius": 10.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 110.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "$200",
+              "$199"
+            ]
+          },
+          {
+            "id": "Line 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 5.996337890625
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 8.699951171875
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 13.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "line_2.svg"
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": 0.75,
+              "right": 0.75
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "$200",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 13.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.0
+              }
+            },
+            "text-content": "\\$200",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 6.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "iCiel Rift"
+          },
+          {
+            "id": "$199",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 20.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.0
+              }
+            },
+            "font-weight": 700.0,
+            "text-content": "\\$199",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 10.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "Bahnschrift"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "ProductsContainer",
+      "size": {
+        "width": 111.0,
+        "height": 184.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

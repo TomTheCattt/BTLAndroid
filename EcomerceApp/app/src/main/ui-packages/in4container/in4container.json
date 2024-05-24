@@ -1,0 +1,198 @@
+{
+  "name": "in4container",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "113:1664",
+    "version": "5802959526",
+    "component-id": "60101769d2a5d66ca0770f531c14ced9c0cc56ef"
+  },
+  "default": "In4Container",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 32"
+      },
+      {
+        "type": "group",
+        "id": "In4"
+      },
+      {
+        "type": "text",
+        "id": "Nhẫn hoàng gia"
+      },
+      {
+        "type": "text",
+        "id": "Colio"
+      },
+      {
+        "type": "text",
+        "id": "Đánh giá: 4,9/5"
+      },
+      {
+        "type": "text",
+        "id": "1"
+      }
+    ],
+    "modes": {
+      "In4Container": {
+        "rules": [
+          {
+            "id": "top_level",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Rectangle 32",
+              "In4"
+            ],
+            "item-spacing": 1.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Rectangle 32",
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              }
+            },
+            "stroke-width": 0.6600000262260437,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "image-content": "rectangle_32.png",
+            "scale": "fill"
+          },
+          {
+            "id": "In4",
+            "padding": {
+              "left": 16.0,
+              "top": 4.0,
+              "right": 16.0,
+              "bottom": 4.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 350.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "children": [
+              "Nhẫn hoàng gia",
+              "Colio",
+              "Đánh giá: 4,9/5",
+              "1"
+            ],
+            "item-spacing": -1.0,
+            "clip-content": false
+          },
+          {
+            "id": "Nhẫn hoàng gia",
+            "text-content": "Nhẫn hoàng gia",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": 40.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "iCiel Rift"
+          },
+          {
+            "id": "Colio",
+            "text-content": "Colio ",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": 22.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "Italiana"
+          },
+          {
+            "id": "Đánh giá: 4,9/5",
+            "text-content": "Đánh giá: 4,9/5",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": 16.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "iCiel Rift"
+          },
+          {
+            "id": "1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": 200.0,
+            "text-content": "\nDưới đây là một vài thông tin mô tả của sản phẩm, hoặc không mô tả thì thôi. Tôi sẽ viết thêm vài dòng để trông nó dài và dễ tưởng tượng hơn khi nó dài trông nó sẽ như thế nào.\n\nMô tả chi tiết:  Chất liệu: Sứ thanh hoa.\nQuyền năng: Điều khiển thời gian. Quyền năng này chỉ có thể kích hoạt khi bạn thức dậy mỗi sáng sớm, bạn chỉ có một phần 10 giây để suy nghĩ xem nên dậy hay ngủ thêm 5 phút. Nếu người sở hữu lựa chọn ngủ thêm 5 phút, vậy thời gian của những người, những sự vật, những thực thể khác người sở hữu sẽ trôi nhanh đến chóng mặt. Và chủ sở hữu chỉ mất 5 phút để ngủ, nhưng thời gian của thực tại đã bị trôi đi 5 tiếng.\nMàu sắc: Đa dạng màu sắc có thể phối từ những màu không tồn tại trong quãng nhìn của mắt người. Những màu phổ biến được ưa thích gồm:\n+ Màu mắt em.\n+ Màu cờ Tổ Quốc.\n+ Màu hoa tuyết không tàn.",
+            "italic": true,
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": 18.5,
+            "line-height": 1.2079883575439454,
+            "typeface": "Alumni Sans"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "In4Container",
+      "size": {
+        "width": 360.0,
+        "height": 944.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,362 @@
+{
+  "name": "parameter_cart_products",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "78:3108",
+    "version": "5802959526",
+    "component-id": "074bbdeef48a5abd87c9f8c130b87f612e401594"
+  },
+  "default": "Parameter CartProducts",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Frame 21"
+      },
+      {
+        "type": "group",
+        "id": "Frame 22"
+      },
+      {
+        "type": "image",
+        "id": "2 1"
+      },
+      {
+        "type": "text",
+        "id": "MELODY DRESS"
+      },
+      {
+        "type": "text",
+        "id": "SIZE: M"
+      },
+      {
+        "type": "group",
+        "id": "Frame 4"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2"
+      },
+      {
+        "type": "group",
+        "id": "Frame 23"
+      },
+      {
+        "type": "group",
+        "id": "Group 3"
+      },
+      {
+        "type": "text",
+        "id": "$201"
+      },
+      {
+        "type": "vector",
+        "id": "Line 3"
+      },
+      {
+        "type": "text",
+        "id": "$200"
+      }
+    ],
+    "modes": {
+      "Parameter CartProducts": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "left": 5.0,
+              "right": 5.0
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Frame 21",
+              "Frame 22"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Frame 21",
+            "border-radius": 5.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.0
+              }
+            },
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "is-structured": false,
+            "children": [
+              "2 1"
+            ],
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Frame 22",
+            "padding": 1.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 245.0
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "cross-axis-align": "start",
+            "children": [
+              "MELODY DRESS",
+              "SIZE: M",
+              "Frame 4"
+            ],
+            "item-spacing": -4.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "2 1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 59.0
+              }
+            },
+            "image-content": "2_1.png",
+            "scale": "fill"
+          },
+          {
+            "id": "MELODY DRESS",
+            "text-content": "MELODY DRESS",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 16.0,
+            "line-height": 1.1779999732971191,
+            "typeface": "Italiana"
+          },
+          {
+            "id": "SIZE: M",
+            "text-content": "SIZE: M",
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 11.0,
+            "line-height": 1.200000069358132,
+            "typeface": "Alumni Sans"
+          },
+          {
+            "id": "Frame 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 268.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Frame 2",
+              "Frame 23"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Frame 2",
+            "padding": {
+              "top": 1.0,
+              "right": 6.0,
+              "bottom": 1.0
+            },
+            "border-radius": 10.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 0.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 2.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "main-axis-align": "start",
+            "children": [
+              "Group 3",
+              "$201"
+            ]
+          },
+          {
+            "id": "Frame 23",
+            "padding": 2.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 251.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 17.0
+              }
+            },
+            "arrangement": "row",
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            }
+          },
+          {
+            "id": "Group 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 13.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Line 3",
+              "$200"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "$201",
+            "font-weight": 700.0,
+            "text-content": "\\$201",
+            "overflow": "visible",
+            "text-size": 10.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "Bahnschrift"
+          },
+          {
+            "id": "Line 3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 5.60009765625
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 0.0
+              }
+            },
+            "vector-content": "line_3.svg"
+          },
+          {
+            "id": "$200",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 13.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 11.0
+              }
+            },
+            "text-content": "\\$200",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-align-vertical": "center",
+            "text-size": 6.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "iCiel Rift"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Parameter CartProducts",
+      "size": {
+        "width": 324.0,
+        "height": 59.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

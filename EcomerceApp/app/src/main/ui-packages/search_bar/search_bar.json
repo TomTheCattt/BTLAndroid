@@ -1,0 +1,58 @@
+{
+  "name": "search_bar",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "159:1111",
+    "version": "5802959526",
+    "component-id": "fd14dd7b26475a27d86a1c8a30c695b8ca137415"
+  },
+  "default": "SearchBar",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      }
+    ],
+    "modes": {
+      "SearchBar": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 25.0,
+            "stroke-width": 1.5,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "is-structured": false,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "SearchBar",
+      "size": {
+        "width": 337.0,
+        "height": 43.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

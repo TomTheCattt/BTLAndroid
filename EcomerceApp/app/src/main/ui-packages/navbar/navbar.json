@@ -1,0 +1,326 @@
+{
+  "name": "navbar",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "50:19",
+    "version": "5802959526",
+    "component-id": "bae95121acaf5300a331e625affd26f00dcfd072"
+  },
+  "default": "Navbar",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "arrow-left-circle"
+      },
+      {
+        "type": "group",
+        "id": "bag-heart-fill"
+      },
+      {
+        "type": "group",
+        "id": "house-fill"
+      },
+      {
+        "type": "group",
+        "id": "search-heart-fill"
+      },
+      {
+        "type": "group",
+        "id": "person-circle"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "VectorBagHeartFill"
+      },
+      {
+        "type": "vector",
+        "id": "VectorRoofFill"
+      },
+      {
+        "type": "vector",
+        "id": "VectorHouseFill"
+      },
+      {
+        "type": "vector",
+        "id": "VectorSearchFill"
+      },
+      {
+        "type": "vector",
+        "id": "VectorCircle"
+      },
+      {
+        "type": "vector",
+        "id": "VectorPerson"
+      }
+    ],
+    "modes": {
+      "Navbar": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "top": 9.0,
+              "bottom": 9.0
+            },
+            "border-radius": 25.0,
+            "stroke-width": 1.0,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "arrangement": "row",
+            "cross-axis-align": "start",
+            "children": [
+              "arrow-left-circle",
+              "bag-heart-fill",
+              "house-fill",
+              "search-heart-fill",
+              "person-circle"
+            ],
+            "item-spacing": 48.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          },
+          {
+            "id": "arrow-left-circle",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "bag-heart-fill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "VectorBagHeartFill"
+            ]
+          },
+          {
+            "id": "house-fill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "VectorRoofFill",
+              "VectorHouseFill"
+            ]
+          },
+          {
+            "id": "search-heart-fill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "VectorSearchFill"
+            ]
+          },
+          {
+            "id": "person-circle",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "VectorCircle",
+              "VectorPerson"
+            ]
+          },
+          {
+            "id": "Vector",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "VectorBagHeartFill",
+            "margin": {
+              "left": 1.8125,
+              "right": 1.8125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_bag_heart_fill.svg"
+          },
+          {
+            "id": "VectorRoofFill",
+            "margin": {
+              "left": 0.9051055908203125,
+              "top": 2.18798828125,
+              "right": 0.9051055908203125,
+              "bottom": 12.686441421508789
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_roof_fill.svg"
+          },
+          {
+            "id": "VectorHouseFill",
+            "margin": {
+              "left": 3.625,
+              "top": 5.968505859375,
+              "right": 3.625,
+              "bottom": 1.8125572204589844
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_house_fill.svg"
+          },
+          {
+            "id": "VectorSearchFill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 28.999460220336914
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0003662109375
+              }
+            },
+            "vector-content": "vector_search_fill.svg"
+          },
+          {
+            "id": "VectorCircle",
+            "margin": {
+              "left": 9.0625,
+              "top": 5.4375,
+              "right": 9.0625,
+              "bottom": 12.6875
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_circle.svg"
+          },
+          {
+            "id": "VectorPerson",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_person.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Navbar",
+      "size": {
+        "width": 380.0,
+        "height": 88.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

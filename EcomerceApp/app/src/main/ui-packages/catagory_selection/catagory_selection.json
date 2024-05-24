@@ -1,0 +1,90 @@
+{
+  "name": "catagory_selection",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "159:1153",
+    "version": "5802959526",
+    "component-id": "63ba6775c75630a752c00b2b4f0a7da3bd8ddd5a"
+  },
+  "default": "CatagorySelection",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "Mẫu catagory"
+      }
+    ],
+    "modes": {
+      "CatagorySelection": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 10.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "stroke-width": 0.6600000262260437,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "arrangement": "row",
+            "children": [
+              "Mẫu catagory"
+            ],
+            "item-spacing": 10.0,
+            "background-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "clip-content": false
+          },
+          {
+            "id": "Mẫu catagory",
+            "font-weight": 600.0,
+            "text-content": "Mẫu catagory",
+            "italic": true,
+            "overflow": "visible",
+            "text-align": "left",
+            "text-size": 20.0,
+            "line-height": 1.2079883575439454,
+            "typeface": "Alumni Sans"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "CatagorySelection",
+      "size": {
+        "width": 112.0,
+        "height": 46.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
