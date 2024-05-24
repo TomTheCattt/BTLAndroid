@@ -1,0 +1,65 @@
+{
+  "name": "horizontal_pics",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "159:1157",
+    "version": "5802959526",
+    "component-id": "40bc42a542b121acf4acae780adf4f62c7758aec"
+  },
+  "default": "horizontalPics",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      }
+    ],
+    "modes": {
+      "horizontalPics": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 14.0,
+            "drop-shadow": {
+              "color": {
+                "alpha": 0.24705882352941178,
+                "hue": 0.0,
+                "saturation": 0.0,
+                "value": 0.0
+              },
+              "blur": 4.0,
+              "offset-x": 0.0,
+              "offset-y": 4.0,
+              "spread": 0.0,
+              "blend-mode": "normal"
+            },
+            "stroke-width": 0.6600000262260437,
+            "stroke-color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 0.0
+            },
+            "is-structured": false,
+            "clip-content": false
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "horizontalPics",
+      "size": {
+        "width": 111.0,
+        "height": 62.4375
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,644 @@
+{
+  "name": "banner",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "32:812",
+    "version": "5802959526",
+    "component-id": "5dc47c476f38d7864ec66d30df6f477326ffc707"
+  },
+  "default": "Property 1=Default",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "image",
+        "id": "1"
+      },
+      {
+        "type": "image",
+        "id": "4"
+      },
+      {
+        "type": "image",
+        "id": "3"
+      },
+      {
+        "type": "image",
+        "id": "2"
+      },
+      {
+        "type": "image",
+        "id": "5"
+      }
+    ],
+    "modes": {
+      "Property 1=Default": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "1",
+              "4",
+              "3",
+              "2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "1",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1197.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 399.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 798.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "2.png",
+            "scale": "cover"
+          }
+        ]
+      },
+      "Property 1=Variant2": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "1",
+              "4",
+              "3",
+              "2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -398.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 799.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 1.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 400.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "2.png",
+            "scale": "cover"
+          }
+        ]
+      },
+      "Property 1=Variant3": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "1",
+              "4",
+              "3",
+              "2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -798.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 399.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -399.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "2.png",
+            "scale": "cover"
+          }
+        ]
+      },
+      "Property 1=Variant4": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "1",
+              "4",
+              "3",
+              "2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -1197.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -798.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -399.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "2.png",
+            "scale": "cover"
+          }
+        ]
+      },
+      "Property 1=Variant5": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "5",
+              "1",
+              "4",
+              "3",
+              "2"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -1582.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "4",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -385.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "3",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -1183.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": -784.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 0.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 360.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 180.0
+              }
+            },
+            "image-content": "2.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Property 1=Default",
+      "size": {
+        "width": 360.0,
+        "height": 180.0
+      }
+    },
+    {
+      "design": "Property 1=Variant2",
+      "size": {
+        "width": 360.0,
+        "height": 180.0
+      }
+    },
+    {
+      "design": "Property 1=Variant3",
+      "size": {
+        "width": 360.0,
+        "height": 180.0
+      }
+    },
+    {
+      "design": "Property 1=Variant4",
+      "size": {
+        "width": 360.0,
+        "height": 180.0
+      }
+    },
+    {
+      "design": "Property 1=Variant5",
+      "size": {
+        "width": 360.0,
+        "height": 180.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,225 @@
+{
+  "name": "personal_bar",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "JXd7lSfxsFhgu0fo6hZfPF",
+    "node": "52:275",
+    "version": "5802959526",
+    "component-id": "cc7bf04716f4e8c432fbeeb88bf478b288739a4f"
+  },
+  "default": "PersonalBar",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "group",
+        "id": "Select"
+      },
+      {
+        "type": "group",
+        "id": "nut-fill"
+      },
+      {
+        "type": "group",
+        "id": "person-fill"
+      },
+      {
+        "type": "group",
+        "id": "bell-fill"
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "VectorPesonfill"
+      },
+      {
+        "type": "vector",
+        "id": "VectorBellFill"
+      }
+    ],
+    "modes": {
+      "PersonalBar": {
+        "rules": [
+          {
+            "id": "top_level",
+            "border-radius": 25.0,
+            "is-structured": false,
+            "children": [
+              "Rectangle 1",
+              "Select"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 1",
+            "border-radius": 25.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 337.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 43.0
+              }
+            },
+            "vector-content": "rectangle_1.svg"
+          },
+          {
+            "id": "Select",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": -0.5
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": -0.5
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "nut-fill",
+              "person-fill",
+              "bell-fill"
+            ],
+            "item-spacing": 47.5,
+            "clip-content": false
+          },
+          {
+            "id": "nut-fill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Vector"
+            ]
+          },
+          {
+            "id": "person-fill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "VectorPesonfill"
+            ]
+          },
+          {
+            "id": "bell-fill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "VectorBellFill"
+            ]
+          },
+          {
+            "id": "Vector",
+            "margin": {
+              "left": 0.276123046875,
+              "top": 1.8125,
+              "right": 0.2742328643798828,
+              "bottom": 1.8125
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector.svg"
+          },
+          {
+            "id": "VectorPesonfill",
+            "margin": 3.625,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": 1.0
+              }
+            },
+            "vector-content": "vector_pesonfill.svg"
+          },
+          {
+            "id": "VectorBellFill",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 25.375
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 29.0015869140625
+              }
+            },
+            "vector-content": "vector_bell_fill.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "PersonalBar",
+      "size": {
+        "width": 337.0,
+        "height": 43.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
