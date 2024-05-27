@@ -2,8 +2,8 @@
 # Mẫu đánh giá chéo
 
 ## Thông Tin Chung
-- **Tên Dự Án**: 
-- **Ngày**: 
+- **Tên Dự Án**: Ecomerce
+- **Ngày**: 05.26.2024
 - **Người Đánh Giá**: 
 
 ## Hướng Dẫn
