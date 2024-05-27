@@ -31,4 +31,4 @@ Mỗi thành viên trong nhóm sẽ được đánh giá theo các tiêu chí d�
 - **Nhận xét**: Chưa có nhiều ý tưởng sáng tạo và đổi mới dự án của nhóm, những ý tưởng đưa ra khá khó để thực hiện và chưa được hiệu quả
 
 ## Nhận Xét Chung
-(Phần này dành cho những nhận xét tổng thể về thành viên được đánh giá, bao gồm cả những gợi ý để cải thiện trong tương lai.)
+Có tinh thần trách nhiệm nhưng cần cải thiện kỹ năng giao tiếp và kỹ năng làm việc nhiều hơn
