@@ -11,8 +11,8 @@ Mỗi thành viên trong nhóm sẽ được đánh giá theo các tiêu chí d�
 
 ## Tiêu Chí Đánh Giá
 ### 1. Đóng góp vào dự án
-- **Điểm đánh giá**: 2
-- **Nhận xét**: Chưa có nhiều đóng góp nổi bật cho nhóm
+- **Điểm đánh giá**: 3
+- **Nhận xét**: Chưa có nhiều đóng góp nổi bật cho nhóm nhưng đưa ra những ý kiến khá phù hợp với dự án của nhóm
 
 ### 2. Tinh thần hợp tác
 - **Điểm đánh giá**: 3
@@ -24,11 +24,11 @@ Mỗi thành viên trong nhóm sẽ được đánh giá theo các tiêu chí d�
 
 ### 4. Kỹ năng giao tiếp
 - **Điểm đánh giá**: 3
-- **Nhận xét**: Kỹ năng giao tiếp với các thành viên trong nhóm chưa thật sự được tốt
+- **Nhận xét**: Kỹ năng giao tiếp với các thành viên trong nhóm chưa thật sự được tốt do cách truyền tải đôi khi khó hiểu
 
 ### 5. Sáng tạo và đổi mới
 - **Điểm đánh giá**: 2
-- **Nhận xét**: Chưa có ý tưởng sáng tạo và đổi mới dự án của nhóm
+- **Nhận xét**: Chưa có nhiều ý tưởng sáng tạo và đổi mới dự án của nhóm, những ý tưởng đưa ra khá khó để thực hiện và chưa được hiệu quả
 
 ## Nhận Xét Chung
 (Phần này dành cho những nhận xét tổng thể về thành viên được đánh giá, bao gồm cả những gợi ý để cải thiện trong tương lai.)
