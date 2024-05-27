@@ -2,7 +2,7 @@
 # Mẫu đánh giá chéo
 
 ## Thông Tin Chung
-- **Tên Dự Án**: Ecomerce
+- **Tên Dự Án**: EcomerceApp
 - **Ngày**: 05.26.2024
 - **Người Đánh Giá**: 
 
