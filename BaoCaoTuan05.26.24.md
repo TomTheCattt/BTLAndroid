@@ -35,10 +35,13 @@ Hoàn thành cơ bản các mục chính của giao diện Figma và hoàn tất
 - Công việc 2: Xây dựng kết cấu cơ bản của phần giỏ hàng.
 
 ## Vấn Đề Gặp Phải
-(Tiêu điểm vào các vấn đề, thách thức mà nhóm gặp phải và cách giải quyết.)
+Chưa nắm rõ cách thức hoạt động của Navigation và khởi tạo animation trong lập trình Android. 
 
 ## Kế Hoạch Tuần Tới
-(Phác thảo ngắn gọn các kế hoạch và mục tiêu dự kiến cho tuần tiếp theo.)
+Hoàn thiện giao diện sản phẩm. 
+Tìm hiểu kiến thức Navigation để hỗ trợ việc chuyển đổi các Activity trong ứng dụng. 
+Tìm hiểu kỹ cách sử dụng Firebase làm database để xử lý backend. 
+Thiết kế database phù hợp với ứng dụng. 
 
 ## Nhận Xét và Đề Xuất
-(Mọi nhận xét và đề xuất để cải thiện quá trình làm việc nhóm và tiến độ dự án.)
+Tìm hiểu và nghiên cứu cách thức hoạt động và sử dụng Navigation trong lập trình Android để xử lý việc chuyển đổi giữa các view trong ứng dụng. 
